@@ -1,0 +1,7 @@
+Webscraping
+Domicile/Exterieur
+
+Buteurs comparaison cote
+Nombre de but mis par l'equipe lors des 10 50 derniers matchs
+
+Performance equipe
